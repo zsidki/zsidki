@@ -1,6 +1,4 @@
-<a href="https://github.com/JaeSeoKim/badge42">
-  <img align="center" src="https://badge42.vercel.app/api/v2/cl1mrrdv6003509le1oe3ffd8/stats?cursusId=21&coalitionId=78" alt="zsidki's 42 stats" />
-</a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zsidki" alt="zsidki's 42 stats" /></a>
 <a href="https://github.com/zsidki?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsidki&theme=dark"/>
 </a>
